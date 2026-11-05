@@ -6,7 +6,7 @@ I build small, useful web apps and PWAs: React, TypeScript, Firebase and AI-assi
 
 - 🍄 [Gljivobook](https://github.com/zrina1980-superuser/gljivobook.app) – an app for mushroom foragers
 - 🚁 [DroneLogbook](https://github.com/zrina1980-superuser/dronelogbook.app) – a flight logbook for drone pilots
-- 🍲 Mamina Teka – a digital family recipe vault with handwriting recognition
+- 🍲 [Mamina Teka](https://mamina-teka.zrina.app) – a digital family recipe vault with handwriting recognition
 - 🌐 [zrina-web](https://github.com/zrina1980-superuser/zrina-web) – the source of my portfolio and free tools
 
 **Links**
